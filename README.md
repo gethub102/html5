@@ -14,6 +14,7 @@
 ```
 delete a file local & remote
 ```
+   git rm /file path/
    git status
    git commit -am <description>
    git status
