@@ -4,8 +4,8 @@
 
 # Practise git command
 
+   git status \n
+   git add \<changed file\> \n
    git status
-   git add \<changed file\>
-   git status
-   git commit -m \<description\>
-   git push origin master
+   git commit -m \<description\> \n
+   git push origin master \n
