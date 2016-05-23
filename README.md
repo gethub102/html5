@@ -6,7 +6,7 @@
 
  update a changed file:
  ```
-   it status 
+   git status 
    git add <changed file> 
    git status 
    git commit -m <description>
