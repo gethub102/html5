@@ -12,3 +12,10 @@
    git commit -m <description>
    git push origin master
 ```
+delete a file local & remote
+```
+   git status
+   git commit -am <description>
+   git status
+   git push
+```
