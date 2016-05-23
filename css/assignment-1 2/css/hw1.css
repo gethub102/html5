@@ -1,0 +1,38 @@
+/* 
+* homework-1 
+*/
+
+/* Style the header with a background color */
+header{
+	background: #666666;
+}
+
+/* h1 elements should be centered and have a new font color */
+h1{
+	color: #ffffff;
+	text-align: center;
+}
+
+/* h2 elements should have a new font color */
+h2{
+	color: #fffff0;
+}
+
+/* Sections should have a new background color */
+section{
+	background: #666665;
+}
+
+/* The links should be centered and have a new font color and background color */
+a{
+	text-align: center;
+	color: #f0f0f0;
+	background: #666000;
+}
+
+/* The images should not appear on the page */
+img{
+	display: none;
+}
+
+
